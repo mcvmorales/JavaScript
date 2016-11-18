@@ -1,0 +1,50 @@
+body {
+    background-color: #000;
+    margin-top: 20px;
+}
+h2 {
+    text-align: center;
+}
+a {
+    color: white;
+}
+a:hover {
+    color: white;
+    text-decoration: underline;
+}
+cite {
+    font-family: "Montserrat";
+    font-size: .8em;
+}
+div {
+    position: relative;
+    z-index: 2;
+}
+.quote-box {
+    margin: 10% auto auto auto;
+    background-color: white;
+    border-radius: 5px;
+    width: 40%;
+}
+.quote {
+    font-family: "Bree Serif";
+    font-size: 2.5em;
+    padding: 25px 40px;
+}
+.author {
+    font-family: "Montserrat";
+    color: darkgrey;
+    font-size: 0.6em;
+    text-align: right;
+}
+#twitter {
+    background: #00ACED;
+    color: white;
+}
+#facebook {
+    background: #3B5998;
+    color: white;
+}
+.btn {
+    margin: 30px 2px;
+}
